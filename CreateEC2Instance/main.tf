@@ -31,6 +31,5 @@ module "vpc" {
     tags = {
         Name = "${var.name}"
     }
-
   
 }
