@@ -1,4 +1,4 @@
-# terraform
+# Terraform
 
-This repository is for terraform testing
+This repository contains terraform files for creating a dpc
 
